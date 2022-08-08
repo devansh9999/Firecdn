@@ -2,14 +2,16 @@
 
 /*---------------------------Replace------------------------------*/
 
-var firebaseConfig = {
-    apiKey: "AIzaSyB9eBs10atrgeGAI-WQm6UO72lhzmT-vpo",
-    authDomain: "thefirecdn.firebaseapp.com",
-    projectId: "thefirecdn",
-    storageBucket: "thefirecdn.appspot.com",
-    messagingSenderId: "707022422419",
-    appId: "1:707022422419:web:b51d29ade5652390246866"
+const firebaseConfig = {
+  apiKey: "AIzaSyDkVlu8Pz1Gn1FAJMBB6BbPn-n1Fe7IefU",
+  authDomain: "dark-torch-338612.firebaseapp.com",
+  projectId: "dark-torch-338612",
+  storageBucket: "dark-torch-338612.appspot.com",
+  messagingSenderId: "988982795645",
+  appId: "1:988982795645:web:3c686bca6fc75eb3b04014",
+  measurementId: "G-7T7NCN6Z6R"
 };
+
 
 /*---------------------------Replace------------------------------*/
 
