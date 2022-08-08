@@ -1,6 +1,6 @@
 /*
  Project-Name: Firecdn
- Author: Tuhin Kanti Pal
+ Author: Tuhin Kanti Pal 
  Author's Github: https://github.com/cachecleanerjeet
  Project's Github: https://github.com/cachecleanerjeet/Firecdn
  Author's Email: me@thetuhin.com
